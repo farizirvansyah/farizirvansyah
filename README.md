@@ -2,8 +2,6 @@
 
 ### A passionate Java developer
 
-[![Fariz Irvansyah](https://img.shields.io)](https://instagram.com)
-
 - 📫 How to reach me **fariz.irvansyah@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://farizirvansyah.github.io/](https://farizirvansyah.github.io/)**

@@ -2,13 +2,13 @@
 
 ### A passionate Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farizirvansyah&label=Profile views&color=0e75b6&style=flat" alt="farizirvansyah" /> </p>
+[![Fariz Irvansyah](https://img.shields.io)](https://instagram.com)
 
 - 📫 How to reach me **fariz.irvansyah@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://farizirvansyah.github.io/](https://farizirvansyah.github.io/)**
 
-- 📝 I regularly write articles on **[https://farizirvansyah.github.io/](https://farizirvansyah.github.io/)**
+- 📝 I regularly write articles on **[https://farizirvansyah.blogspot.com/](https://farizirvansyah.blogspot.com/)**
 
 - 📄 Know about my experiences **[https://farizirvansyah.github.io/CV_Fariz_Irvansyah.pdf](https://farizirvansyah.github.io/CV_Fariz_Irvansyah.pdf)**
 

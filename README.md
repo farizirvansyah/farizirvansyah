@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fariz Irvansyah
 
-### A passionate Java developer
+### A passionate Developer
 
 - 📫 How to reach me **fariz.irvansyah@gmail.com**
 
